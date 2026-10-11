@@ -1,28 +1,28 @@
-## 🗓️ Day-wise LeetCode Practice Tracker
+## 🗓️ Day-wise LeetCode Links
 
-| Day | Topic / Problem | LeetCode Link | ✅ Done |
-| --- | --- | --- | --- |
-| 1 | Valid Palindrome | [🔗 Solve Problem](https://leetcode.com/problems/valid-palindrome/) | ☑️ |
-| 2 | 485. Max Consecutive Ones | [🔗 Solve Problem](https://leetcode.com/problems/max-consecutive-ones/) | ☐ |
-| 3 | 1295. Find Numbers with Even Number of Digits | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ☐ |
-| 4 | 1295. Find Numbers with Even Number of Digits | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ☐ |
-| 5 | 724. Find Pivot Index | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/) | ☐ |
-| 6 | 724. Find Pivot Index | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/) | ☐ |
-| 7 | 118. Pascal's Triangle | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/) | ☐ |
-| 8 | 118. Pascal's Triangle | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/) | ☐ |
-| 9 | 344. Reverse String | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/) | ☐ |
-| 10 | 344. Reverse String | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/) | ☐ |
-| 11 | Linked List Introduction | — | ☐ |
-| 12 | 707. Design Linked List | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/) | ☐ |
-| 13 | 707. Design Linked List | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/) | ☐ |
-| 14 | Introduction to Queues | — | ☐ |
-| 15 | 622. Design Circular Queue | [🔗 Solve Problem](https://leetcode.com/problems/design-circular-queue/) | ☐ |
-| 16 | Queue Methods for Interviews | — | ☐ |
-| 17 | 705. Design HashSet | [🔗 Solve Problem](https://leetcode.com/problems/design-hashset/) | ☐ |
-| 18 | 706. Design HashMap | [🔗 Solve Problem](https://leetcode.com/problems/design-hashmap/) | ☐ |
-| 19 | Binary Tree – Theory | — | ☐ |
-| 20 | 144. Binary Tree Preorder Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ☐ |
-| 21 | 94. Binary Tree Inorder Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ☐ |
-| 22 | 102. Binary Tree Level Order Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ☐ |
-| 23 | Top Down Recursion | — | ☐ |
-| 24 | Bottom Up Approach | — | ☐ |
+| Day | Topic / Pattern                                        | LeetCode Link                                                                                                     | ✅ Done |
+| --- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | valid-palindrome                                       | [🔗 Solve Problem](https://leetcode.com/problems/valid-palindrome/)                                               | ✅     |
+| 2   | 485.2 Max Consecutive Ones (Code)                      | [🔗 Solve Problem](https://leetcode.com/problems/max-consecutive-ones/)                                          | ☐      |
+| 3   | 1295.1 Find Number with Even Number of Digits (Theory) | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
+| 4   | 1295.2 Find Number with Even Number of Digits (Code)   | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
+| 5   | 724.1 Find Pivot Index (Theory)                        | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/)                                              | ☐      |
+| 6   | 724.2 Find Pivot Index (Code)                          | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/)                                              | ☐      |
+| 7   | 118.1 Pascal's Triangle (Theory)                       | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/)                                              | ☐      |
+| 8   | 118.2 Pascal's Triangle (Code)                         | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/)                                              | ☐      |
+| 9   | 344.1 Reverse String (Theory)                          | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/)                                                | ☐      |
+| 10  | 344.2 Reverse String (Code)                            | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/)                                                | ☐      |
+| 11  | 0. Linked List Introduction                            | —                                                                                                                 | ☐      |
+| 12  | 707.1 Design Linked List (Theory)                      | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/)                                            | ☐      |
+| 13  | 707.2 Design Linked List (Code)                        | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/)                                            | ☐      |
+| 14  | 0. Introduction to Queues                              | —                                                                                                                 | ☐      |
+| 15  | 622. Design Circular Queue                             | [🔗 Solve Problem](https://leetcode.com/problems/design-circular-queue/)                                         | ☐      |
+| 16  | Queue Methods For Interviews                           | —                                                                                                                 | ☐      |
+| 17  | 705. Design HashSet                                    | [🔗 Solve Problem](https://leetcode.com/problems/design-hashset/)                                                | ☐      |
+| 18  | 706. Design HashMap                                    | [🔗 Solve Problem](https://leetcode.com/problems/design-hashmap/)                                                | ☐      |
+| 19  | Binary Tree-1-Theory                                   | —                                                                                                                 | ☐      |
+| 20  | 144. Binary Tree Preorder Traversal                    | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                | ☐      |
+| 21  | 94. Binary Tree Inorder Traversal                      | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                 | ☐      |
+| 22  | 102. Binary Tree Level Order Traversal                 | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/)                             | ☐      |
+| 23  | Top Down Recursion                                     | —                                                                                                                 | ☐      |
+| 24  | Bottom Up Approach                                     | —                                                                                                                 | ☐      |
