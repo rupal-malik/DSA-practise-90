@@ -1,0 +1,28 @@
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+var isPalindrome = function(s) {
+    let i =0
+    let j= s.length-1;
+    let isLetterOrDigit=(str)=>/[a-zA-Z0-9]/.test(str)
+    while(i<j){
+        let left= s.charAt(i);
+        let right= s.charAt(j);
+
+        if(!isLetterOrDigit(left)){
+            i+=1
+            continue
+        }
+        if(!isLetterOrDigit(right)){
+            j-=1
+            continue
+        }
+        if(left.toLowerCase()!==right.toLowerCase()){
+            return false
+        }
+        i+=1
+        j-=1
+    }
+    return true
+};
