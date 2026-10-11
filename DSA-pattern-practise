@@ -1,30 +1,28 @@
-## 🗓️ Day-wise Video Links
+## 🗓️ Day-wise LeetCode Practice Tracker
 
-| Day | Topic / Pattern                                        | Video Link                                                                                                     | ✅ Done |
-| --- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------ |
-| 1   | valid-palindrome                                       | [🎥 Watch Video](https://leetcode.com/problems/valid-palindrome/)                                              | ✅     |
-| 2   | 485.2 Max Consecutive Ones (Code)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=2hzERLjR2_k&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=2)  | ☐      |
-| 3   | 1295.1 Find Number with Even Number of Digits (Theory) | [🎥 Watch Video](https://www.youtube.com/watch?v=c3XuLlIQ_fw&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=3)  | ☐      |
-| 4   | 1295.2 Find Number with Even Number of Digits (Code)   | [🎥 Watch Video](https://www.youtube.com/watch?v=fGowSrWq5QI&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=4)  | ☐      |
-| 5   | 724.1 Find Pivot Index (Theory)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=IV3AkceP37A&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin)          | ☐      |
-| 6   | 724.2 Find Pivot Index (Code)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=59gnJCkDzEc&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=2)  | ☐      |
-| 7   | 118.1 Pascal's Triangle (Theory)                       | [🎥 Watch Video](https://www.youtube.com/watch?v=p6l9kw5Pv1I&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=7)  | ☐      |
-| 8   | 118.2 Pascal's Triangle (Code)                         | [🎥 Watch Video](https://www.youtube.com/watch?v=ELo7RR-Isjk&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=8)  | ☐      |
-| 9   | 344.1 Reverse String (Theory)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=SfE6EOTy3As&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=9)  | ☐      |
-| 10  | 344.2 Reverse String (Code)                            | [🎥 Watch Video](https://www.youtube.com/watch?v=0uJjOlNOrQ0&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=10) | ☐      |
-| 11  | 0. Linked List Introduction                            | [🎥 Watch Video](https://www.youtube.com/watch?v=tbrVeBu0_NY&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0)          | ☐      |
-| 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | ☐      |
-| 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | ☐      |
-| 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          | ☐      |
-| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | ☐      |
-| 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  | ☐      |
-| 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | ☐      |
-| 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | ☐      |
-| 19  | Binary Tree-1-Theory                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=KejwzBy5hkg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_)          | ☐      |
-| 20  | 144. Binary Tree Preorder Traversal                    | [🎥 Watch Video](https://www.youtube.com/watch?v=-K8hwyHidSg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=2)  | ☐      |
-| 21  | 94. Binary Tree Inorder Traversal                      | [🎥 Watch Video](https://www.youtube.com/watch?v=zatMy62PlK0&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=3)  | ☐      |
-| 22  | 102. Binary Tree Level Order Traversal                 | [🎥 Watch Video](https://www.youtube.com/watch?v=nK1uE8eJnTs&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=4)  | ☐      |
-| 23  | Top Down Recursion                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=POqFMgBLBJY&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=5)  | ☐      |
-| 24  | Bottom Up Approach                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=QW0rO
-
----
+| Day | Topic / Problem | LeetCode Link | ✅ Done |
+| --- | --- | --- | --- |
+| 1 | Valid Palindrome | [🔗 Solve Problem](https://leetcode.com/problems/valid-palindrome/) | ☑️ |
+| 2 | 485. Max Consecutive Ones | [🔗 Solve Problem](https://leetcode.com/problems/max-consecutive-ones/) | ☐ |
+| 3 | 1295. Find Numbers with Even Number of Digits | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ☐ |
+| 4 | 1295. Find Numbers with Even Number of Digits | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ☐ |
+| 5 | 724. Find Pivot Index | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/) | ☐ |
+| 6 | 724. Find Pivot Index | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/) | ☐ |
+| 7 | 118. Pascal's Triangle | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/) | ☐ |
+| 8 | 118. Pascal's Triangle | [🔗 Solve Problem](https://leetcode.com/problems/pascals-triangle/) | ☐ |
+| 9 | 344. Reverse String | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/) | ☐ |
+| 10 | 344. Reverse String | [🔗 Solve Problem](https://leetcode.com/problems/reverse-string/) | ☐ |
+| 11 | Linked List Introduction | — | ☐ |
+| 12 | 707. Design Linked List | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/) | ☐ |
+| 13 | 707. Design Linked List | [🔗 Solve Problem](https://leetcode.com/problems/design-linked-list/) | ☐ |
+| 14 | Introduction to Queues | — | ☐ |
+| 15 | 622. Design Circular Queue | [🔗 Solve Problem](https://leetcode.com/problems/design-circular-queue/) | ☐ |
+| 16 | Queue Methods for Interviews | — | ☐ |
+| 17 | 705. Design HashSet | [🔗 Solve Problem](https://leetcode.com/problems/design-hashset/) | ☐ |
+| 18 | 706. Design HashMap | [🔗 Solve Problem](https://leetcode.com/problems/design-hashmap/) | ☐ |
+| 19 | Binary Tree – Theory | — | ☐ |
+| 20 | 144. Binary Tree Preorder Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ☐ |
+| 21 | 94. Binary Tree Inorder Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ☐ |
+| 22 | 102. Binary Tree Level Order Traversal | [🔗 Solve Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ☐ |
+| 23 | Top Down Recursion | — | ☐ |
+| 24 | Bottom Up Approach | — | ☐ |
