@@ -3,7 +3,7 @@
 | Day | Topic / Pattern                                        | LeetCode Link                                                                                                    | ✅ Done |
 | --- | ------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------| ------ |
 | 1   | valid-palindrome                                       | [🔗 Solve Problem](https://leetcode.com/problems/valid-palindrome/)                                              | ✅     |
-| 2   | 485.2 Max Consecutive Ones (Code)                      | [🔗 Solve Problem] (https://leetcode.com/problems/reverse-string/)                                               | ✅     |
+| 2   | reverse-string                                          | [🔗 Solve Problem] (https://leetcode.com/problems/reverse-string/)                                               | ✅     |
 | 3   | 1295.1 Find Number with Even Number of Digits (Theory) | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
 | 4   | 1295.2 Find Number with Even Number of Digits (Code)   | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
 | 5   | 724.1 Find Pivot Index (Theory)                        | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/)                                              | ☐      |
