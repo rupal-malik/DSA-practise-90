@@ -3,8 +3,8 @@
 | Day | Topic / Pattern                                        | LeetCode Link                                                                                                    | ✅ Done |
 | --- | ------------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------| ------ |
 | 1   | valid-palindrome                                       | [🔗 Solve Problem](https://leetcode.com/problems/valid-palindrome/)                                              | ✅     |
-| 2   | reverse-string                                          | [🔗 Solve Problem] (https://leetcode.com/problems/reverse-string/)                                               | ✅     |
-| 3   | 1295.1 Find Number with Even Number of Digits (Theory) | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
+| 2   | reverse-string                                         | [🔗 Solve Problem] (https://leetcode.com/problems/reverse-string/)                                               | ✅     |
+| 3   | sortedSquares                                          | [🔗 Solve Problem](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                         | ✅     |
 | 4   | 1295.2 Find Number with Even Number of Digits (Code)   | [🔗 Solve Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                       | ☐      |
 | 5   | 724.1 Find Pivot Index (Theory)                        | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/)                                              | ☐      |
 | 6   | 724.2 Find Pivot Index (Code)                          | [🔗 Solve Problem](https://leetcode.com/problems/find-pivot-index/)                                              | ☐      |
